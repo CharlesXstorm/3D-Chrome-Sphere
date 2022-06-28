@@ -1,0 +1,19 @@
+
+*{
+    box-sizing:border-box;
+}
+.txt{
+    position:absolute ;
+    z-index:99;
+    font-size:20px;
+    font-family:festive;
+    color:#fff;
+    padding:10px;
+}
+#bg{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin:auto;
+    width:100%;
+}
